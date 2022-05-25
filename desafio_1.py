@@ -16,6 +16,7 @@ while i < len(arr):
 
     # Subiterator
     ii = i
+
     while ii < len(arr):
         SUM += arr[ii]
         ii += 1
